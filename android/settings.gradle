@@ -1,0 +1,3 @@
+rootProject.name = 'IotProject'
+
+include ':app'
